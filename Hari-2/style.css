@@ -1,0 +1,18 @@
+#utama{
+    display: flex;
+    gap: 20px;
+    background-color: aqua;
+    width: 100%;
+    height: auto;
+    padding: 20px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+h4{
+    margin: 0px;
+    color: #7aabfa;
+}

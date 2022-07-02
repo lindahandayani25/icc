@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: opx;
+
+}
+
+.header_content{
+    background-color: aqua;
+    width: 60px;
+    height: 100px;
+}
